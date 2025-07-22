@@ -23,5 +23,5 @@
 ---
 
 ### 📬 Contact Me
-- 📧 afaq@example.com  
+- 📧 mafaqashrafali5678@gmail.com  
 http://127.0.0.1:5503/index.html
