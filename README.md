@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Afaq Ali</h1>
 
-<!--
-**thecodeafaq/thecodeafaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A creative Frontend Developer building futuristic apps for the year 2070.  
+💡 Passionate about interactive UI, animations, and AI-powered web experiences.
 
-Here are some ideas to get you started:
+### 🧠 Featured Projects
+- 🔮 [LanguageLeaf](https://github.com/thecodeafaq/languageleaf): AI learning platform for 2070
+- 🫂 [FriendConnect](https://github.com/thecodeafaq/friendconnect): Social media with glassmorphism
+- 🛒 [Watch Store 2070](https://github.com/thecodeafaq/watch-store): 3D animated landing page
+- 🎮 [KO Combat Game](https://github.com/thecodeafaq/fighter-game): JavaScript fighting game with sound and animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+`HTML` `CSS` `JavaScript` `Web APIs`  
+`VS Code` `GitHub` `Responsive Design` `Futuristic UI`
+
+---
+
+### 📊 GitHub Stats
+![Afaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeafaq&show_icons=true&theme=radical)
+
+---
+
+### 📬 Contact Me
+- 📧 afaq@example.com  
+http://127.0.0.1:5503/index.html
